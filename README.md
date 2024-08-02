@@ -1,6 +1,6 @@
 # 💻 Bootcamp Back-end Python & Django da WoMakersCode 👩‍💻
 
-Repositório para os exercícios do Exercício 1 da Semana 04 do Bootcamp Back-end Python e Django do **Squad Bertha Lutz**.
+Repositório para os exercícios do Desafio 3 da Semana 04 do Bootcamp Back-end Python e Django do **Squad Bertha Lutz**.
 
 As atividades em conjunto dos quatro desafios de Python tiveram a distribuição abaixo de exercícios. Nossa organização foi assíncrona, e a divisão foi buscando incluir todas as integrantes no maior número possível de desafios. Todas contribuíram igualmente.
 
